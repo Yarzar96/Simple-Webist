@@ -1,0 +1,1 @@
+var json_HlaingbwePark_16 = {"type":"FeatureCollection","name":"HlaingbwePark_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":"Hlaingbwe Park","Type":"Park"},"geometry":{"type":"Point","coordinates":[97.817197705904007,17.111209233761624]}}]}

@@ -1,0 +1,1 @@
+var json_HlaingbweTownshipGADOffice_19 = {"type":"FeatureCollection","name":"HlaingbweTownshipGADOffice_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":"Hlaingbwe Township GAD Office","Type":"Office"},"geometry":{"type":"Point","coordinates":[97.81805745988305,17.129816742501408]}}]}

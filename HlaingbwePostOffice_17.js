@@ -1,0 +1,1 @@
+var json_HlaingbwePostOffice_17 = {"type":"FeatureCollection","name":"HlaingbwePostOffice_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":"Hlaingbwe Post Office","Type":"Office"},"geometry":{"type":"Point","coordinates":[97.818471609665579,17.131555151852872]}}]}
